@@ -6,6 +6,7 @@
 - 🎓 Pós-graduação em Compliance e Integridade Corporativa
 - 🎓 Graduação em Ciências Contábeis
 - 🎓 Graduação em Administração com Ênfase em Sistemas de Informações Gerenciais
+- 🎓 Técnico em Processamento de Dados
 
 <p align="center">Com mais de 18 anos de experiência profissional, adquiri habilidades e conhecimentos que me permitem atuar em diferentes funções e projetos. Minha experiência inclui papéis como Cientista de Dados e Analista de Dados, onde pude liderar equipes e colaborar com excelência.</p>
 
