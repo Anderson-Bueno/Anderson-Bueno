@@ -39,9 +39,6 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
 </p>
 
-<h3 align="center">Linguagens mais utilizadas:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-bueno&layout=compact&hide=html" alt="Linguagens mais utilizadas" /></p>
-
 <p align="center">
   <a href="mailto:anderson.bueno.estrategia@gmail.com">anderson.bueno.estrategia@gmail.com</a>
 </p>
@@ -49,6 +46,7 @@
 <p align="center">
   <a href="https://github.com/anderson-bueno/anderson-bueno">Ver Repositório</a>
 </p>
+
 
 
 
