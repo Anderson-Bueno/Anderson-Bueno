@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-menezes-bueno/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/anderson-menezes-bueno/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -39,7 +39,8 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anderson-bueno&show_icons=true&locale=en&layout=compact" alt="anderson-bueno" /></p>
+<h3 align="center">Linguagens mais utilizadas:</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson-bueno&layout=compact&hide=html" alt="Linguagens mais utilizadas" /></p>
 
 <p align="center">
   <a href="mailto:anderson.bueno.estrategia@gmail.com">anderson.bueno.estrategia@gmail.com</a>
@@ -48,6 +49,7 @@
 <p align="center">
   <a href="https://github.com/anderson-bueno/anderson-bueno">Ver Repositório</a>
 </p>
+
 
 
 <!---
