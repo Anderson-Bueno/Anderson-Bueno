@@ -10,7 +10,7 @@
     <li>🎓 Técnico em Processamento de Dados</li>
   </ul>
 
-  <p>Com mais de 18 anos de experiência profissional, adquiri habilidades e conhecimentos que me permitem atuar em diferentes funções e projetos. Minha experiência inclui papéis como Cientista de Dados e Analista de Dados, onde pude liderar equipes e colaborar com excelência.</p>
+  <p>Com mais de 18 anos de experiência profissional, adquiri habilidades e conhecimentos que me permitem atuar em diferentes funções e projetos, como especialista em análise de dados complexos, combinando habilidades técnicas em programação com pensamento analítico e capacidade de comunicação para impulsionar soluções globais inovadoras.</p>
 
   <p>Ao longo da minha carreira, desenvolvi habilidades estratégicas que me permitem crescer profissionalmente e inovar em diferentes contextos. Acredito firmemente em grandes propósitos e estou sempre pronto para enfrentar novos desafios com determinação e sucesso.</p>
 
