@@ -3,6 +3,8 @@
 Sou um profissional com ampla experiência e conhecimento, especialmente voltado para a ciência de dados. Com uma sólida formação acadêmica e mais de 18 anos de experiência, estou preparado para enfrentar desafios complexos e desenvolver soluções inovadoras. Abaixo, destaco minhas qualificações e experiências:
 
 ### Formação Acadêmica:
+
+- 🎓 Master Business Admnistration em Data Science e Analytics
 - 🎓 Pós-graduação em Inteligência Artificial e Aprendizado de Máquina
 - 🎓 Pós-graduação em Compliance e Integridade Corporativa
 - 🎓 Graduação em Ciências Contábeis
@@ -11,18 +13,15 @@ Sou um profissional com ampla experiência e conhecimento, especialmente voltado
 
 ### Experiência Profissional:
 
-Com mais de 18 anos de experiência, adquiri habilidades essenciais para atuar como cientista de dados. Minha trajetória na área de dados começou com a formação em Técnico em Processamento de Dados, que me proporcionou uma base sólida em tecnologia da informação, programação e manipulação de dados. Essa formação inicial foi fundamental para meu desenvolvimento e crescimento profissional na área de ciência de dados.
+🚀 Profissional de Dados com mais de 18 anos de experiência, entregando soluções analíticas de ponta-a-ponta que impulsionam eficiência, inteligência estratégica e inovação em empresas dos setores de Óleo e Gás, Varejo e Indústria.
 
-Em seguida, a graduação em Administração com Ênfase em Sistemas de Informações Gerenciais representou um passo secundário importante, ampliando meus conhecimentos sobre como utilizar sistemas de informação para gerenciar dados de forma eficaz em um contexto empresarial.
+🎯 Atuo com excelência na engenharia de dados, modelagem estatística, inferência causal, machine learning e análise preditiva, sempre com foco em resultados mensuráveis e impacto real nos negócios. Minha expertise combina conhecimento técnico robusto e visão estratégica, utilizando ferramentas como AWS, Databricks, Airflow, Python e SQL para transformar dados complexos em soluções escaláveis e acionáveis.
 
-Minha pós-graduação em Inteligência Artificial e Aprendizado de Máquina me proporcionou conhecimentos avançados em técnicas e algoritmos essenciais para a construção de modelos preditivos, análise de grandes volumes de dados e desenvolvimento de soluções inteligentes.
+📊 Minha jornada começou no Processamento de Dados, evoluindo para uma formação sólida em Administração, Ciências Contábeis e Compliance, complementada por especializações em Inteligência Artificial e Machine Learning. Essa base multidisciplinar me permite integrar dados, tecnologia, negócios e governança de forma sinérgica.
 
-Além disso, minha formação em Compliance e Integridade Corporativa e em Ciências Contábeis fornece uma base sólida em regulamentações, ética e finanças, permitindo uma análise de dados mais precisa e contextualizada. Essa combinação de conhecimentos técnicos e de negócios é crucial para desenvolver soluções que não só atendam às necessidades técnicas, mas também estejam alinhadas às normas e objetivos estratégicos das organizações.
+💡 Com um histórico comprovado de entrega em ambientes desafiadores, lidero projetos do diagnóstico à produção com visão sistêmica, clareza na comunicação e foco em gerar valor real para a organização. Tenho paixão por traduzir dados em decisões estratégicas, alinhadas a propósitos maiores e inovação responsável.
 
-Desenvolvi competências estratégicas ao longo da minha carreira, permitindo-me crescer e inovar em diversos contextos profissionais. Sou apaixonado por grandes propósitos e estou sempre pronto para enfrentar novos desafios com determinação e sucesso.
-
-Tenho uma forte necessidade de realização e estou comprometido em superar obstáculos com confiança, buscando constantemente transformar dados em insights acionáveis para impulsionar decisões estratégicas.
-
+🤝 Estou em busca de novos desafios em empresas que valorizem dados como ativo estratégico e a excelência técnica como diferencial competitivo. Se sua organização busca um profissional experiente, versátil e orientado à transformação por dados, vamos conversar!
 
 
 
