@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou Anderson Bueno</h1>
 
-Sou um profissional com ampla experiência e conhecimento, especialmente voltado para a ciência de dados. Com uma sólida formação acadêmica e mais de 18 anos de experiência, estou preparado para enfrentar desafios complexos e desenvolver soluções inovadoras. Abaixo, destaco minhas qualificações e experiências:
+Sou Pai do Bento e da Maria Clara e profissional com ampla experiência e conhecimento, especialmente voltado para a ciência de dados. Com uma sólida formação acadêmica e mais de 18 anos de experiência, estou preparado para enfrentar desafios complexos e desenvolver soluções inovadoras. Abaixo, destaco minhas qualificações e experiências:
 
 ### Formação Acadêmica:
 
