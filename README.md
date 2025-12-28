@@ -4,9 +4,9 @@ Sou Pai do Bento e da Maria Clara e profissional com ampla experiência e conhec
 
 ### Formação Acadêmica:
 
-- 🎓 Master Business Administration em Data Science e Analytics
-- 🎓 Pós-graduação em Inteligência Artificial e Aprendizado de Máquina
-- 🎓 Pós-graduação em Compliance e Integridade Corporativa
+- 🎓 MBA em Data Science e Analytics - USP - ESALQ
+- 🎓 Pós-graduação em Inteligência Artificial e Aprendizado de Máquina - PUC Minas
+- 🎓 Pós-graduação em Compliance e Integridade Corporativa - PUC Minas
 - 🎓 Graduação em Ciências Contábeis
 - 🎓 Graduação em Administração com Ênfase em Sistemas de Informações Gerenciais
 - 🎓 Técnico em Processamento de Dados
