@@ -7,9 +7,9 @@ Sou Pai do Bento e da Maria Clara e profissional com ampla experiência e conhec
 - 🎓 MBA em Data Science e Analytics - USP - ESALQ
 - 🎓 Pós-graduação em Inteligência Artificial e Aprendizado de Máquina - PUC Minas
 - 🎓 Pós-graduação em Compliance e Integridade Corporativa - PUC Minas
-- 🎓 Graduação em Ciências Contábeis
-- 🎓 Graduação em Administração com Ênfase em Sistemas de Informações Gerenciais
-- 🎓 Técnico em Processamento de Dados
+- 🎓 Graduação em Ciências Contábeis - Trevisan Esacola de Negícios
+- 🎓 Graduação em Administração de Sistemas de Informações Gerenciais - Faculdades Integradas de Jacarepaguá
+- 🎓 Técnico em Processamento de Dados - Instituto Sul Americano
 
 ### Experiência Profissional:
 
