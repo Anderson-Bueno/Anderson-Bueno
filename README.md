@@ -1,30 +1,149 @@
-<h1>Olá! Eu sou Anderson Bueno</h1>
+# Olá, eu sou Anderson Bueno 👋
 
-Sou Pai do Bento e da Maria Clara e profissional com ampla experiência e conhecimento, especialmente voltado para a ciência de dados. Com uma sólida formação acadêmica e mais de 18 anos de experiência, estou preparado para enfrentar desafios complexos e desenvolver soluções inovadoras. Abaixo, destaco minhas qualificações e experiências:
+**Machine Learning Engineer | Data Scientist Aplicado | MLOps & Analytics Engineering**
 
-### Formação Acadêmica:
+Sou profissional de dados com mais de 18 anos de experiência, atuando na construção de soluções analíticas de ponta a ponta que conectam **dados, machine learning, engenharia, governança e decisão de negócio**.
 
-- 🎓 MBA em Data Science e Analytics - USP - ESALQ
-- 🎓 Pós-graduação em Inteligência Artificial e Aprendizado de Máquina - PUC Minas
-- 🎓 Pós-graduação em Compliance e Integridade Corporativa - PUC Minas
-- 🎓 Graduação em Ciências Contábeis - Trevisan Escola de Negócios
-- 🎓 Graduação em Administração de Sistemas de Informações Gerenciais - Faculdades Integradas de Jacarepaguá
-- 🎓 Técnico em Processamento de Dados - Instituto Sul Americano
+Minha trajetória combina experiência prática em ambientes corporativos, formação sólida em Data Science, Inteligência Artificial, Compliance, Administração e Ciências Contábeis, além de atuação em projetos de dados nos setores de **Óleo & Gás, Varejo, Indústria e Serviços**.
 
-### Experiência Profissional:
+Atualmente, meu foco está em desenvolver soluções de **Machine Learning aplicado**, **pipelines escaláveis**, **MLOps**, **modelagem estatística robusta** e **produtos analíticos orientados a impacto real**.
 
-🚀 Profissional de Dados com mais de 18 anos de experiência, entregando soluções analíticas de ponta-a-ponta que impulsionam eficiência, inteligência estratégica e inovação em empresas dos setores de Óleo e Gás, Varejo e Indústria.
+---
 
-🎯 Atuo com excelência na engenharia de dados, modelagem estatística, inferência causal, machine learning e análise preditiva, sempre com foco em resultados mensuráveis e impacto real nos negócios. Minha expertise combina conhecimento técnico robusto e visão estratégica, utilizando ferramentas como AWS, Databricks, Airflow, Python e SQL para transformar dados complexos em soluções escaláveis e acionáveis.
+## 🚀 Posicionamento profissional
 
-📊 Minha jornada começou no Processamento de Dados, evoluindo para uma formação sólida em Administração, Ciências Contábeis e Compliance, complementada por especializações em Inteligência Artificial e Machine Learning. Essa base multidisciplinar me permite integrar dados, tecnologia, negócios e governança de forma sinérgica.
+Atuo na interseção entre:
 
-💡 Com um histórico comprovado de entrega em ambientes desafiadores, lidero projetos do diagnóstico à produção com visão sistêmica, clareza na comunicação e foco em gerar valor real para a organização. Tenho paixão por traduzir dados em decisões estratégicas, alinhadas a propósitos maiores e inovação responsável.
+- **Data Science aplicada**
+- **Machine Learning Engineering**
+- **Engenharia de Dados**
+- **MLOps**
+- **Analytics Engineering**
+- **Governança e confiabilidade de modelos**
 
-🤝 Estou em busca de novos desafios em empresas que valorizem dados como ativo estratégico e a excelência técnica como diferencial competitivo. Se sua organização busca um profissional experiente, versátil e orientado à transformação por dados, vamos conversar!
+Meu objetivo é transformar dados complexos em sistemas analíticos confiáveis, escaláveis e úteis para tomada de decisão.
 
+---
 
+## 🧠 Principais competências
 
+### Machine Learning & Estatística
 
+- Modelagem preditiva
+- Classificação e regressão
+- Clusterização e segmentação comportamental
+- Matching probabilístico
+- Inferência estatística
+- Análise causal
+- Validação de modelos
+- Detecção de overfitting e data leakage
 
+### Engenharia de Dados & Pipelines
 
+- Python
+- SQL
+- PySpark
+- Databricks
+- Airflow
+- ETL/ELT
+- Feature engineering
+- Processamento distribuído
+- Pipelines batch e analíticos
+
+### MLOps & Produção
+
+- MLflow
+- Monitoramento de modelos
+- Tracking de experimentos
+- CI/CD
+- APIs para inferência
+- Docker
+- Cloud
+- Governança e rastreabilidade
+
+### Negócio & Comunicação
+
+- Storytelling com dados
+- Tradução de problemas de negócio em soluções analíticas
+- Métricas de impacto
+- Comunicação para públicos técnicos e não técnicos
+- Visão multidisciplinar com base em dados, tecnologia, compliance e gestão
+
+---
+
+## ⭐ Projetos em destaque
+
+### 1. Customer Segmentation Intelligence
+
+Pipeline de segmentação comportamental com foco em inteligência de clientes, utilizando Spark, RFMT, PCA, clustering e interpretação dinâmica de perfis.
+
+**Principais temas:**  
+`PySpark` · `Clustering` · `PCA` · `RFMT` · `Customer Analytics` · `Databricks`
+
+---
+
+### 2. Probabilistic Matching Engine
+
+Motor de matching probabilístico com distância de Mahalanobis, similaridade robusta, fallback estatístico e técnicas de busca aproximada.
+
+**Principais temas:**  
+`Mahalanobis` · `Similarity` · `LSH` · `Matching` · `Robust Statistics` · `Machine Learning`
+
+---
+
+### 3. MLOps / DataOps Pipeline
+
+Pipeline analítico orientado a produção, com estruturação de dados, tracking de experimentos, logging, particionamento e monitoramento.
+
+**Principais temas:**  
+`MLOps` · `MLflow` · `DataOps` · `Pipelines` · `CI/CD` · `Model Monitoring`
+
+---
+
+### 4. Churn Prediction System
+
+Projeto em desenvolvimento para previsão de churn com pipeline de treino, validação robusta, API de inferência, MLflow e deploy.
+
+**Principais temas:**  
+`Classification` · `FastAPI` · `Docker` · `MLflow` · `Model Deployment` · `Business Impact`
+
+---
+
+## 📌 Áreas de interesse
+
+- Machine Learning em produção
+- MLOps e confiabilidade de modelos
+- Segmentação comportamental
+- Matching probabilístico
+- Análise causal
+- Produtos analíticos
+- Engenharia de dados aplicada à ciência de dados
+- IA generativa aplicada ao ciclo de análise
+
+---
+
+## 🎓 Formação acadêmica
+
+- MBA em Data Science e Analytics — USP/ESALQ
+- Pós-graduação em Inteligência Artificial e Aprendizado de Máquina — PUC Minas
+- Pós-graduação em Compliance e Integridade Corporativa — PUC Minas
+- Graduação em Ciências Contábeis — Trevisan Escola de Negócios
+- Graduação em Administração de Sistemas de Informações Gerenciais — Faculdades Integradas de Jacarepaguá
+- Técnico em Processamento de Dados — Instituto Sul Americano
+
+---
+
+## 👨‍👧‍👦 Sobre mim
+
+Sou pai do Bento e da Maria Clara, apaixonado por tecnologia, dados e aprendizado contínuo.
+
+Minha jornada começou no processamento de dados e evoluiu para uma atuação completa em ciência de dados, machine learning, engenharia, governança e estratégia analítica.
+
+Acredito que bons projetos de dados não terminam no modelo: eles precisam ser confiáveis, compreensíveis, rastreáveis e úteis para decisões reais.
+
+---
+
+## 🔗 Contato
+
+- LinkedIn: https://www.linkedin.com/in/anderson-menezes-bueno
+- E-mail: anderson.bueno.estrategia@gmail.com
